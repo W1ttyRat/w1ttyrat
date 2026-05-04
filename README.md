@@ -23,7 +23,7 @@ Check out my repositories to see what I'm working on:
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=w1ttyrat&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w1ttyrat&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 💡 What I'm Up To
 
