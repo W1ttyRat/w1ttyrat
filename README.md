@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building interesti
 
 Check out my repositories to see what I'm working on:
 
-- [w1ttyrat.github.io](https://github.com/w1ttyrat/w1ttyrat.github.io) - My personal website and portfolio
+- [w1ttyrat.github.io](https://w1ttyrat.github.io/) - My personal website and portfolio
 
 ## 📊 GitHub Stats
 
