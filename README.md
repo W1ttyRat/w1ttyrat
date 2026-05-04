@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building interesti
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, HTML, CSS
+- **Languages**: JavaScript, HTML, CSS and many more
 - **Tools**: Git, VS Code
 - **Interests**: Web Development, Software Engineering
 
