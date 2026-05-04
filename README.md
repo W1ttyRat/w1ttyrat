@@ -4,16 +4,28 @@ Welcome to my GitHub profile! I'm passionate about coding and building interesti
 
 ## 🚀 About Me
 
+- � BA Computer Science student at Tallinn University (TLU)
 - 🌟 Developer with a passion for creating elegant solutions
 - 💻 Interested in web development and open-source projects
 - 🎯 Always learning and improving my skills
-- 📍 Based and coding from everywhere
+- 📍 Based and coding from Tallinn, Estonia
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, HTML, CSS and many more
+- **Languages**: Python, JavaScript, Java, HTML, CSS
+- **Libraries & Frameworks**: NumPy, Pandas, Django, Node, EJS, Spring Boot, React
 - **Tools**: Git, VS Code
-- **Interests**: Web Development, Software Engineering
+- **Interests**: Web Development, Software Engineering, Data Analysis
+
+## 📚 Courses Completed
+
+- ✅ Codedex: Python
+- ✅ Codedex: NumPy
+- ✅ Codedex: Pandas
+- ✅ Codedex: HTML
+- ✅ Codedex: CSS
+- ✅ W3Schools: Django Tutorial
+- ✅ Hyperskill Academy: Java Introduction
 
 ## 📂 Featured Projects
 
