@@ -26,6 +26,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building interesti
 - ✅ Codedex: CSS
 - ✅ W3Schools: Django Tutorial
 - ✅ Hyperskill Academy: Java Introduction
+- ✅ Cave Of Programming: C++ for Complete Beginners
 
 ## 📂 Featured Projects
 
