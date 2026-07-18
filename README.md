@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building interesti
 
 - **Languages**: Python, JavaScript, Java, HTML, CSS
 - **Libraries & Frameworks**: NumPy, Pandas, Django, Node, EJS, Spring Boot, React
-- **Tools**: Git, VS Code
+- **Tools**: Git, VS Code, Docker, AWS
 - **Interests**: Web Development, Software Engineering, Data Analysis
 
 ## 📚 Courses Completed
@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm passionate about coding and building interesti
 - ✅ W3Schools: Django Tutorial
 - ✅ Hyperskill Academy: Java Introduction
 - ✅ Cave Of Programming: C++ for Complete Beginners
+- ✅ FreeCodeCamp: Learn Docker – Full DevOps Course for Deploying Containerized Apps
 
 ## 📂 Featured Projects
 
