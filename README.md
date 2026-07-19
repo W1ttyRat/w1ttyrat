@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm w1ttyrat
+# Hi there! 👋 I'm Tanel Metshein
 
 Welcome to my GitHub profile! I'm passionate about coding and building interesting projects.
 
