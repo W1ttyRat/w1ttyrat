@@ -1,53 +1,51 @@
-# Hi there! 👋 I'm w1ttyrat
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="w1ttyrat, BA computer science student in Tallinn" width="100%">
+</picture>
 
-Welcome to my GitHub profile! I'm passionate about coding and building interesting projects.
+## Who I am
 
-## 🚀 About Me
+I'm Tanel, a BA Computer Science student at Tallinn University, based in Tallinn, Estonia.
+I build web apps for courses and team projects, and games in Godot in my own time.
 
-- � BA Computer Science student at Tallinn University (TLU)
-- 🌟 Developer with a passion for creating elegant solutions
-- 💻 Interested in web development and open-source projects
-- 🎯 Always learning and improving my skills
-- 📍 Based and coding from Tallinn, Estonia
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=W1ttyRat&hide_border=true&bg_color=1F3A4D&title_color=F2B84B&text_color=E6EDEE&icon_color=E58FA3">
+  <img src="https://github-readme-stats.vercel.app/api?username=W1ttyRat&hide_border=true&bg_color=E6EDEE&title_color=1F3A4D&text_color=1F3A4D&icon_color=E58FA3" alt="GitHub stats for W1ttyRat">
+</picture>
 
-## 🛠️ Tech Stack
+## What I use
 
-- **Languages**: Python, JavaScript, Java, HTML, CSS
-- **Libraries & Frameworks**: NumPy, Pandas, Django, Node, EJS, Spring Boot, React
-- **Tools**: Git, VS Code
-- **Interests**: Web Development, Software Engineering, Data Analysis
+| | |
+|---|---|
+| Languages | JavaScript, TypeScript, Java, Python, GDScript, C++, SQL, HTML, CSS |
+| Frontend | React, Next.js, Vite, Material UI, EJS |
+| Backend | Node.js with Express, Spring Boot, Django, WebSockets, Stripe Checkout |
+| Data | PostgreSQL, Supabase, SQLite, NumPy, Pandas |
+| Tools | Git and GitHub, Docker, Godot 4 |
 
-## 📚 Courses Completed
+## What I've built
 
-- ✅ Codedex: Python
-- ✅ Codedex: NumPy
-- ✅ Codedex: Pandas
-- ✅ Codedex: HTML
-- ✅ Codedex: CSS
-- ✅ W3Schools: Django Tutorial
-- ✅ Hyperskill Academy: Java Introduction
+**[Roll & Ruin](https://w1ttyrat.github.io/rollandruin/)**
+A dice-board roguelite for Android, made in Godot. All the art and sound is generated in code. The repo is private, so there is a page on my site instead.
 
-## 📂 Featured Projects
+**[Gladiator board game](https://github.com/W1ttyRat/Browser-Game)**
+A multiplayer board game in the browser, with turns sent live over WebSockets. Spring Boot, React, PostgreSQL.
 
-Check out my repositories to see what I'm working on:
+**[Inspection booking system](https://github.com/W1ttyRat/Tarkvara-Projekt)**
+A booking app for vehicle inspections, built in a team of three for a university course. [Live site](https://tarkvara-projekt.onrender.com).
 
-- [w1ttyrat.github.io](https://w1ttyrat.github.io/) - My personal website and portfolio
+**[Arena RPG](https://github.com/W1ttyRat/gladiatus)**
+A text-based browser RPG. Fights are worked out on the server and replayed round by round in the client. React, Express, PostgreSQL.
 
-## 📊 GitHub Stats
+**[Webstore](https://github.com/W1ttyRat/Webstore)**
+A server-rendered online shop with accounts, a cart and Stripe checkout. Express, EJS, PostgreSQL.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=w1ttyrat&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+**[Licence plate reader](https://github.com/W1ttyRat/TestCamera)**
+Finds cars in video and reads their number plates, then checks them against a list. OpenCV, YOLO, fast-alpr.
 
-## 💡 What I'm Up To
+More, including coursework, is on [my site](https://w1ttyrat.github.io).
 
-- Building and experimenting with web technologies
-- Always exploring new tools and frameworks
+## Where to find me
 
-## 🤝 Let's Connect!
-
-- 📧 Feel free to reach out and collaborate
-- 💬 Open to discussing ideas and projects
-- 🌐 Visit my [portfolio](https://w1ttyrat.github.io)
-
----
-
-⭐ If you find my work interesting, feel free to star my repositories and follow me for more updates!
+Email: tanelmetshein@gmail.com
+Website: [w1ttyrat.github.io](https://w1ttyrat.github.io)
