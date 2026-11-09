@@ -21,7 +21,7 @@ I build web apps for courses and team projects, and games in Godot in my own tim
 | Frontend | React, Next.js, Vite, Material UI, EJS |
 | Backend | Node.js with Express, Spring Boot, Django, WebSockets, Stripe Checkout |
 | Data | PostgreSQL, Supabase, SQLite, NumPy, Pandas |
-| Tools | Git and GitHub, Docker, Godot 4 |
+| Tools | Git and GitHub, Docker, AWS, Godot 4 |
 
 ## What I've built
 
